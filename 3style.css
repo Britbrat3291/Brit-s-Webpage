@@ -1,0 +1,16 @@
+header{
+    background-color: gold;
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr ;
+    height:100px;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: turquoise ;
+}
+.links{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
